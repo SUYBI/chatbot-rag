@@ -1,0 +1,29 @@
+# LlamaIndex Core
+llama-index-core>=0.10.0
+llama-index>=0.10.0
+
+# LlamaIndex Embeddings
+llama-index-embeddings-huggingface>=0.2.0
+
+# LlamaIndex LLMs
+llama-index-llms-openai-like>=0.1.0
+
+# Streamlit
+streamlit>=1.30.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Embeddings & ML
+sentence-transformers>=2.2.0
+torch>=2.0.0
+transformers>=4.30.0
+
+# Storage & Persistence
+llama-index-storage-docstore>=0.1.0
+llama-index-storage-index-store>=0.1.0
+llama-index-storage-kvstore>=0.1.0
+
+# Optional but recommended
+numpy>=1.24.0
+pandas>=2.0.0
