@@ -19,11 +19,5 @@ sentence-transformers>=2.2.0
 torch>=2.0.0
 transformers>=4.30.0
 
-# Storage & Persistence
-llama-index-storage-docstore>=0.1.0
-llama-index-storage-index-store>=0.1.0
-llama-index-storage-kvstore>=0.1.0
-
-# Optional but recommended
+# Utilities
 numpy>=1.24.0
-pandas>=2.0.0
